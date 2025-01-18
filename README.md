@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
+print(Hello World!)
+Hello everyone, I am a passionate student currently studying B.Tech Computer Science and Engineering (Specialisation in Aritifical Intelligence and Machine Learning) at VIT Bhopal. I love working on projects that solve real-world problems using technology and data. I’m always learning new things and improving my skills to stay updated with the latest industry trends.  
 
-<!--
-**Swayam200/Swayam200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+On this github page, you can find a variety of projects from goldfish tracking to blackjack. Feel free to explore them! 
 
-Here are some ideas to get you started:
+## My skillset:  
+Programming Languages: Python, C++ 
+Frameworks & Libraries: Pandas, NumPy, Matplotlib  
+Tools: Git, VSCode, Tableau, MATLAB  
+Database Management: MySQL  
+Others: Machine Learning, Data Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
