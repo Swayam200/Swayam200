@@ -160,6 +160,28 @@ class Swayam:
 
 ## ⭐ Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/swayam200/goldfish_password_generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=goldfish_password_generator&theme=midnight-purple&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/swayam200/carbon-sleuth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=carbon-sleuth&theme=midnight-purple&hide_border=true&show_owner=false" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/swayam200/Khel-Saarthi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Khel-Saarthi&theme=midnight-purple&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/swayam200/Darzi-AI-Resume-Suite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Darzi-AI-Resume-Suite&theme=midnight-purple&hide_border=true&show_owner=false" />
+</a>
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%">
@@ -168,8 +190,6 @@ class Swayam:
 > *Python · OpenCV · SHA-256 · Cryptography*
 
 A **True Random Number Generator** that harvests entropy from real-time fish movement tracked via computer vision. Euclidean motion tracking feeds a SHA-256 hashing pipeline, validated with the Runs Test for statistical randomness.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/swayam200/goldfish_password_generator)
 
 </td>
 <td width="50%">
@@ -191,8 +211,6 @@ ML pipeline predicting **disease outbreak risk** from climate & epidemiological 
 
 Mobile-first platform connecting **grassroots athletes with local sports organisers**. Features role-based auth, event discovery, registration, and real-time chat.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/swayam200/Khel-Saarthi)
-
 </td>
 <td width="50%">
 
@@ -200,8 +218,6 @@ Mobile-first platform connecting **grassroots athletes with local sports organis
 > *Django REST · React · PyQt5 · pandas*
 
 Hybrid **Web + Desktop application** for chemical equipment parameter visualisation. Combines a Django REST API backend with a React frontend and a PyQt5 desktop client.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/swayam200/carbon-sleuth)
 
 </td>
 </tr>
@@ -214,12 +230,14 @@ Hybrid **Web + Desktop application** for chemical equipment parameter visualisat
 <div align="center">
 
 <!--
-  NOTE: github-readme-stats uses a shared public Vercel deployment that rate-limits.
-  If these cards show as broken, deploy your own free instance in 60 seconds:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  Then replace "github-readme-stats.vercel.app" below with your own deployment URL.
+  STATS & LANGS: Generated daily via GitHub Actions and stored as local SVGs.
+  See .github/workflows/grs.yml — run it once manually from the Actions tab to generate.
+  Until then, the public Vercel fallback URLs below will work (may occasionally rate-limit).
 -->
 
+<!-- After running the GitHub Action once, swap to local paths:
+<img src="./profile/stats.svg" height="175" />&nbsp;<img src="./profile/langs.svg" height="175" />
+-->
 <img src="https://github-readme-stats.vercel.app/api?username=swayam200&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="175" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayam200&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&card_width=330" height="175" />
 
 <br/>
@@ -235,7 +253,35 @@ Hybrid **Web + Desktop application** for chemical equipment parameter visualisat
 ---
 
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/swayam200/swayam200/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<!-- Once your snake Action has run once, delete the placeholder below and uncomment the img tag -->
+<!-- <img src="https://raw.githubusercontent.com/swayam200/swayam200/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
+
+> 🔧 **Setup:** Create `.github/workflows/snake.yml` in your profile repo and run it once from the Actions tab — then uncomment the line above.
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> permissions:
+>   contents: write
+> jobs:
+>   snake:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: swayam200
+>           outputs: |
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
