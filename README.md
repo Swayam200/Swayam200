@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Swayam%20Prakash%20Panda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20IEEE%20Author%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
 
-<!-- FIX: Typing SVG — emojis removed, all lines plain-encoded ASCII -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems+%26+ML+Pipelines;FastAPI+%7C+Docker+%7C+BERT+%7C+Real-time+WebSockets;IEEE+Author+at+RCSM+2025+--+MANIT+Bhopal;B.Tech+CSE+(AI+%26+ML)+at+VIT+Bhopal" alt="Typing SVG" />
 
 <br/>
@@ -163,19 +162,19 @@ class Swayam:
 <div align="center">
 
 <a href="https://github.com/swayam200/goldfish_password_generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=goldfish_password_generator&theme=midnight-purple&hide_border=true&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=goldfish_password_generator&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/swayam200/carbon-sleuth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=carbon-sleuth&theme=midnight-purple&hide_border=true&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=carbon-sleuth&theme=midnight-purple&hide_border=true" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/swayam200/Khel-Saarthi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Khel-Saarthi&theme=midnight-purple&hide_border=true&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Khel-Saarthi&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/swayam200/Darzi-AI-Resume-Suite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Darzi-AI-Resume-Suite&theme=midnight-purple&hide_border=true&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Darzi-AI-Resume-Suite&theme=midnight-purple&hide_border=true" />
 </a>
 
 </div>
@@ -229,15 +228,6 @@ Hybrid **Web + Desktop application** for chemical equipment parameter visualisat
 
 <div align="center">
 
-<!--
-  STATS & LANGS: Generated daily via GitHub Actions and stored as local SVGs.
-  See .github/workflows/grs.yml — run it once manually from the Actions tab to generate.
-  Until then, the public Vercel fallback URLs below will work (may occasionally rate-limit).
--->
-
-<!-- After running the GitHub Action once, swap to local paths:
-<img src="./profile/stats.svg" height="175" />&nbsp;<img src="./profile/langs.svg" height="175" />
--->
 <img src="https://github-readme-stats.vercel.app/api?username=swayam200&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="175" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayam200&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&card_width=330" height="175" />
 
 <br/>
@@ -254,34 +244,7 @@ Hybrid **Web + Desktop application** for chemical equipment parameter visualisat
 
 ## 🐍 Contribution Snake
 
-<!-- Once your snake Action has run once, delete the placeholder below and uncomment the img tag -->
-<!-- <img src="https://raw.githubusercontent.com/swayam200/swayam200/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
-
-> 🔧 **Setup:** Create `.github/workflows/snake.yml` in your profile repo and run it once from the Actions tab — then uncomment the line above.
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> permissions:
->   contents: write
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: swayam200
->           outputs: |
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+<img src="https://raw.githubusercontent.com/swayam200/swayam200/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ---
 
