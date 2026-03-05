@@ -1,179 +1,271 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hey there, I'm Swayam Prakash Panda!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI%2FML+Enthusiast;B.Tech+CSE+(AIML)+Student;Google+Certified+Data+Analyst;Building+Tomorrow's+Solutions+Today!" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Swayam%20Prakash%20Panda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20IEEE%20Author%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
+
+<!-- FIX: Typing SVG — emojis removed, all lines plain-encoded ASCII -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems+%26+ML+Pipelines;FastAPI+%7C+Docker+%7C+BERT+%7C+Real-time+WebSockets;IEEE+Author+at+RCSM+2025+--+MANIT+Bhopal;B.Tech+CSE+(AI+%26+ML)+at+VIT+Bhopal" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/swayam200.me-0f0c29?style=for-the-badge&logo=google-chrome&logoColor=a78bfa)](https://swayam200.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayam200)
+[![GitHub](https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swayam200)
+[![Email](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swayam.panda200@gmail.com)
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-302b63?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/swayam200)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=swayam200&style=flat-square&color=a78bfa&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/swayam200?label=Followers&style=flat-square&color=a78bfa)](https://github.com/swayam200)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swayam200&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
-  <img src="https://ghchart.rshah.org/36BCF7/Swayam200" alt="GitHub Contribution Chart" />
-</div>
+---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 ```python
-class SwayamPanda:
-    def __init__(self):
-        self.name = "Swayam Prakash Panda"
-        self.education = "B.Tech CSE (AIML) @ VIT Bhopal"
-        self.role = "Data Analyst & AI/ML Enthusiast"
-        self.location = "Daman and Diu, India"
-        self.interests = ["Machine Learning", "Data Analysis", "Computer Vision", "Cryptography"]
-        self.motto = "Solving real-world problems through data and AI"
-    
-    def current_focus(self):
-        return [
-            "🔍 Advanced Machine Learning & Predictive Modeling",
-            "📊 Data Visualization & Analytics",
-            "🤖 AI-driven Solutions for Healthcare",
-            "🌐 Open Source Contributions"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+class Swayam:
+    name       = "Swayam Prakash Panda"
+    location   = "Daman, India 🇮🇳"
+    education  = "B.Tech CSE (AI & ML) @ VIT Bhopal (2023–2027) | CGPA: 8.64"
+    role       = "AI Engineer · Backend Developer · IEEE Author"
 
-me = SwayamPanda()
-me.say_hi()
+    research   = "Cross-platform misinformation detection via BERT (IEEE RCSM 2025)"
+    interests  = ["NLP", "Transfer Learning", "ML Systems", "Scalable Backends", "Computer Vision"]
+
+    currently  = [
+        "Python Dev Intern @ TechMasterAI Digi Pvt. Ltd.",
+        "Student Coordinator @ GeeksforGeeks VIT Bhopal",
+        "Technical Team Lead @ VITB AI Innovators Hub",
+    ]
+
+    fun_fact   = "I once generated passwords using goldfish movement entropy 🐠"
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam200&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+---
 
-## 🛠️ Tech Arsenal
+## 🔬 Research & Publications
 
-<div align="center">
+<table>
+<tr>
+<td width="60px" align="center">📄</td>
+<td>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Evaluating the Portability of BERT-based Misinformation Detection from Twitter to Bluesky**
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+*IEEE RCSM 2025 · MANIT Bhopal, Dec 5–6, 2025 · To appear in IEEE Xplore (SCOPUS Indexed)*
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+- Conducted a **3-stage controlled cross-platform transfer experiment** using BERT-based classifiers
+- Achieved **F1 = 0.73** in zero-shot transfer (Twitter → Bluesky)
+- Improved to **F1 = 0.997** after platform-specific fine-tuning
+- Proved foundational misinformation signals are portable; optimal performance requires domain adaptation
 
-</div>
+*Supervisor: Dr. Ajay Kumar Phulre · IEEE Conf. No.: 67767*
 
-## 🏆 Featured Projects
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🐠 Goldfish Password Generator</h3>
-        <div align="center">
-          <a href="https://github.com/swayam200/goldfish_password_generator" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=goldfish_password_generator&theme=radical" alt="Goldfish Password Generator" />
-          </a>
-          <p><strong>Computer Vision & Cryptography</strong> - Revolutionary TRNG using goldfish movements as entropy source with SHA-256 hashing</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🦠 Leptospirosis Predictor</h3>
-        <div align="center">
-          <a href="https://github.com/swayam200/Leptospirosis-Predictor" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Leptospirosis-Predictor&theme=radical" alt="Leptospirosis Predictor" />
-          </a>
-          <p><strong>Healthcare AI</strong> - ML model enhancing diagnostic capabilities using medical and weather data</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚂 Indian Railways Analysis</h3>
-        <div align="center">
-          <a href="https://github.com/swayam200/Indian-Railways-Analysis" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Indian-Railways-Analysis&theme=radical" alt="Indian Railways Analysis" />
-          </a>
-          <p><strong>Data Analytics Capstone</strong> - End-to-end analysis identifying ticket confirmation factors</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎮 Shape Recognition AI Game</h3>
-        <div align="center">
-          <a href="https://github.com/swayam200/Shape_Recog_Game" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Shape_Recog_Game&theme=radical" alt="Shape Recognition Game" />
-          </a>
-          <p><strong>Interactive ML</strong> - AI-powered drawing game with real-time shape prediction</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-## 📈 GitHub Analytics
+## 💼 Experience
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swayam200&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam200&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<details open>
+<summary><b>🏢 Python Development Intern — TechMasterAI Digi Pvt. Ltd. &nbsp;|&nbsp; Jan 2026 – Present</b></summary>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam200&theme=radical&hide_border=true" alt="Contribution Graph" />
-</div>
+- Built **production-grade FastAPI backend APIs** optimized for low latency and CPU-efficient processing
+- Developed a **real-time speech-to-text microservice** using Vosk with WebSocket streaming pipelines
+- **Containerized** backend services with Docker and authored comprehensive developer documentation
 
-## 🏅 Achievements & Certifications
+</details>
+
+<details open>
+<summary><b>🎓 Winter Intern (NPTEL) — IIT Ropar &nbsp;|&nbsp; Dec 2025 – Jan 2026</b></summary>
+<br/>
+
+- Analyzed **Ajrasakha** (GenAI agri-tech): multi-stage LLM query resolution pipelines and curated dataset integration
+- Studied **ViBe LMS**: AI-proctored video delivery, RBAC design, and scalability strategies
+- Assessed design trade-offs in integrating **LLM components into production-scale educational platforms**
+
+</details>
+
+<details open>
+<summary><b>⚡ Student Coordinator — GeeksforGeeks VIT Bhopal Chapter &nbsp;|&nbsp; Jan 2025 – Present</b></summary>
+<br/>
+
+- Led a **50-member technical core team** to organize campus-scale events
+- Spearheaded **"Borderlands: Survive the Chaos"** at AdVITya 2026 — 200+ participants, multi-stage survival format
+- Built interactive event platforms **Riddle Booth** and **Algo Rush** for Advitya '25 using Node.js, Express, Socket.IO
+- Developed the full event platform and **club website** with React, Node.js, and Socket.IO
+
+</details>
+
+<details open>
+<summary><b>🤖 Technical Team Lead — VITB AI Innovators Hub &nbsp;|&nbsp; Sep 2025 – Present</b></summary>
+<br/>
+
+- Coordinated a **cross-functional team of 75+ members** across research and engineering roles
+- Led the **Darzi: AI Resume Suite** initiative — sprint planning, task allocation, and development workflow
+- Structured scalable workflows to support experimentation and parallel feature development
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 🎯 **Certifications** | 🏆 **Achievements** |
-|:---|:---|
-| 📊 Google Data Analytics Professional Certificate | 🚀 Startup Star Season 1 - 7th Place Finalist |
-| 🔬 BCG Data Science Job Simulation (Forage) | 🌟 Open Source Contributor - AcWoC 2025 |
-| 🐍 University of Michigan: Applied ML in Python | 📚 Programming for Everybody (Python) |
-| 💻 HackerRank: Python & SQL Certified | 🎯 Pull Shark Achievement |
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-302b63?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-302b63?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
 
-## 📊 Current Focus Areas
+**Web & Backend**
 
-```mermaid
-graph LR
-    A[Data Science] --> B[Machine Learning]
-    A --> C[Data Visualization]
-    B --> D[Predictive Modeling]
-    B --> E[Computer Vision]
-    C --> F[Business Intelligence]
-    C --> G[Statistical Analysis]
-    D --> H[Healthcare AI]
-    E --> I[Image Processing]
-```
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-302b63?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-302b63?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=009688)
+![MongoDB](https://img.shields.io/badge/MongoDB-302b63?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-302b63?style=for-the-badge&logo=socket.io&logoColor=white)
 
-## 🤝 Let's Connect & Collaborate!
+**ML, AI & Data**
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayam200)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swayam200)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swayam200.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swayam.panda200@gmail.com)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![pandas](https://img.shields.io/badge/pandas-302b63?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![HuggingFace](https://img.shields.io/badge/HuggingFace%20%2F%20BERT-302b63?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Vosk](https://img.shields.io/badge/Vosk%20STT-0f0c29?style=for-the-badge&logoColor=a78bfa)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-302b63?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-302b63?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-0f0c29?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![VSCode](https://img.shields.io/badge/VS%20Code-302b63?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
 
 ---
 
+## ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐠 Goldfish Password Generator
+> *Python · OpenCV · SHA-256 · Cryptography*
+
+A **True Random Number Generator** that harvests entropy from real-time fish movement tracked via computer vision. Euclidean motion tracking feeds a SHA-256 hashing pipeline, validated with the Runs Test for statistical randomness.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/swayam200/goldfish_password_generator)
+
+</td>
+<td width="50%">
+
+### 🦠 Leptospirosis Risk Predictor
+> *Python · scikit-learn · React · Node.js · PostgreSQL*
+
+ML pipeline predicting **disease outbreak risk** from climate & epidemiological datasets across European regions. Full-stack deployment with geospatial visualization dashboards.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/swayam200/Leptospirosis-Predictor)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏟️ KhelSaarthi — Your Sport, Your Community
+> *React Native · Node.js · Express · MongoDB · Socket.IO · JWT*
+
+Mobile-first platform connecting **grassroots athletes with local sports organisers**. Features role-based auth, event discovery, registration, and real-time chat.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/swayam200/Khel-Saarthi)
+
+</td>
+<td width="50%">
+
+### ⚗️ Carbon Sleuth
+> *Django REST · React · PyQt5 · pandas*
+
+Hybrid **Web + Desktop application** for chemical equipment parameter visualisation. Combines a Django REST API backend with a React frontend and a PyQt5 desktop client.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/swayam200/carbon-sleuth)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swayam200&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  
-  <h3>💫 "Data tells stories, AI makes them actionable, and I bring both to life!" 💫</h3>
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+<!--
+  NOTE: github-readme-stats uses a shared public Vercel deployment that rate-limits.
+  If these cards show as broken, deploy your own free instance in 60 seconds:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  Then replace "github-readme-stats.vercel.app" below with your own deployment URL.
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=swayam200&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="175" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayam200&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&card_width=330" height="175" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=swayam200&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swayam200&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/swayam200/swayam200/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+---
+
+## 🎖️ Achievements & Certifications
+
+| 🏅 Achievement | 📅 Year |
+|:---|:---:|
+| 📜 **Google Data Analytics Professional Certificate** | 2025 |
+| 🐍 **Applied Machine Learning in Python** — University of Michigan | 2024 |
+| ☁️ **Cloud Computing** — NPTEL | 2025 |
+| 🥇 **IEEE RCSM 2025** — Paper accepted & presented at MANIT Bhopal | 2025 |
+| 🚀 **Startup Star Season 1** — 7th Place, Startupvapi *(Pitched Petmania)* | 2022 |
+
+---
+
+## 🌐 Let's Connect
+
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/swayam200">Swayam200</a> with ❤️</sub>
+
+*Always open to research collaborations, interesting projects, and good engineering conversations.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-swayam200.me-a78bfa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swayam200.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swayam%20Panda-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/swayam200)
+[![Email](https://img.shields.io/badge/Email-swayam.panda200%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swayam.panda200@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-swayam200-24243e?style=for-the-badge&logo=github)](https://github.com/swayam200)
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
