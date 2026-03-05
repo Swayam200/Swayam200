@@ -159,53 +159,29 @@ class Swayam:
 
 ## ⭐ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/swayam200/goldfish_password_generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=goldfish_password_generator&theme=midnight-purple&hide_border=true" />
-</a>
-<a href="https://github.com/swayam200/carbon-sleuth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=carbon-sleuth&theme=midnight-purple&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/swayam200/Khel-Saarthi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Khel-Saarthi&theme=midnight-purple&hide_border=true" />
-</a>
-<a href="https://github.com/swayam200/Darzi-AI-Resume-Suite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swayam200&repo=Darzi-AI-Resume-Suite&theme=midnight-purple&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="50%">
 
-### 🐠 Goldfish Password Generator
+### 🐠 [Goldfish Password Generator](https://github.com/swayam200/goldfish_password_generator)
 > *Python · OpenCV · SHA-256 · Cryptography*
 
-A **True Random Number Generator** that harvests entropy from real-time fish movement tracked via computer vision. Euclidean motion tracking feeds a SHA-256 hashing pipeline, validated with the Runs Test for statistical randomness.
+A **True Random Number Generator** harvesting entropy from real-time fish movement via computer vision. Euclidean motion tracking feeds a SHA-256 hashing pipeline, validated with the Runs Test.
 
 </td>
 <td width="50%">
 
-### 🦠 Leptospirosis Risk Predictor
+### 🦠 [Leptospirosis Risk Predictor](https://github.com/swayam200/Leptospirosis-Predictor)
 > *Python · scikit-learn · React · Node.js · PostgreSQL*
 
 ML pipeline predicting **disease outbreak risk** from climate & epidemiological datasets across European regions. Full-stack deployment with geospatial visualization dashboards.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/swayam200/Leptospirosis-Predictor)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏟️ KhelSaarthi — Your Sport, Your Community
+### 🏟️ [KhelSaarthi — Your Sport, Your Community](https://github.com/swayam200/Khel-Saarthi)
 > *React Native · Node.js · Express · MongoDB · Socket.IO · JWT*
 
 Mobile-first platform connecting **grassroots athletes with local sports organisers**. Features role-based auth, event discovery, registration, and real-time chat.
@@ -213,7 +189,7 @@ Mobile-first platform connecting **grassroots athletes with local sports organis
 </td>
 <td width="50%">
 
-### ⚗️ Carbon Sleuth
+### ⚗️ [Carbon Sleuth](https://github.com/swayam200/carbon-sleuth)
 > *Django REST · React · PyQt5 · pandas*
 
 Hybrid **Web + Desktop application** for chemical equipment parameter visualisation. Combines a Django REST API backend with a React frontend and a PyQt5 desktop client.
@@ -226,25 +202,23 @@ Hybrid **Web + Desktop application** for chemical equipment parameter visualisat
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swayam200&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="175" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayam200&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&card_width=330" height="175" />
+<!-- Stats & langs: generated daily by .github/workflows/grs.yml and stored as local SVGs -->
+<a href="https://github.com/swayam200"><img height="175" align="center" src="./profile/stats.svg" /></a>
+<a href="https://github.com/swayam200"><img height="175" align="center" src="./profile/langs.svg" /></a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=swayam200&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+![streak](https://streak-stats.demolab.com?user=swayam200&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swayam200&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
-
-</div>
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=swayam200&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 ---
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/swayam200/swayam200/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+![snake](https://raw.githubusercontent.com/swayam200/swayam200/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
