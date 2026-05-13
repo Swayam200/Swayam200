@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Swayam%20Prakash%20Panda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20IEEE%20Author%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Systems+%26+ML+Pipelines;FastAPI+%7C+Docker+%7C+BERT+%7C+Real-time+WebSockets;IEEE+Author+at+RCSM+2025+--+MANIT+Bhopal;B.Tech+CSE+(AI+%26+ML)+at+VIT+Bhopal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Building+AI+Systems+%26+ML+Pipelines;FastAPI+%7C+Docker+%7C+Plotly+%7C+Real-time+WebSockets;IEEE+Author+at+RCSM+2025+%26+ASSIC+2026;B.Tech+CSE+(AI+%26+ML)+at+VIT+Bhopal" alt="Typing SVG" />
 
 <br/>
 
@@ -30,13 +30,15 @@ class Swayam:
     education  = "B.Tech CSE (AI & ML) @ VIT Bhopal (2023–2027) | CGPA: 8.64"
     role       = "AI Engineer · Backend Developer · IEEE Author"
 
-    research   = "Cross-platform misinformation detection via BERT (IEEE RCSM 2025)"
+    research   = "Cross-platform misinformation detection + entropy-based cryptography"
     interests  = ["NLP", "Transfer Learning", "ML Systems", "Scalable Backends", "Computer Vision"]
 
     currently  = [
+        "Summer Intern @ FOSSEE, IIT Bombay",
         "Python Dev Intern @ TechMasterAI Digi Pvt. Ltd.",
         "Student Coordinator @ GeeksforGeeks VIT Bhopal",
         "Technical Team Lead @ VITB AI Innovators Hub",
+        "Building Darzi: AI Resume Suite",
     ]
 
     fun_fact   = "I once generated passwords using goldfish movement entropy 🐠"
@@ -51,14 +53,28 @@ class Swayam:
 <td width="60px" align="center">📄</td>
 <td>
 
+**True Random Number Generator using Biological Entropy**
+
+*IEEE ASSIC 2026 · KIIT University · Aug 8–10, 2026 · Accepted for publication*
+
+- Explores entropy extraction from biological motion for secure random number generation
+- Uses real-world motion capture and cryptographic hashing to create robust random seeds
+- Accepted for IEEE Xplore publication and indexed in Scopus & Web of Science
+
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">📄</td>
+<td>
+
 **Evaluating the Portability of BERT-based Misinformation Detection from Twitter to Bluesky**
 
-*IEEE RCSM 2025 · MANIT Bhopal, Dec 5–6, 2025 · To appear in IEEE Xplore (SCOPUS Indexed)*
+*IEEE RCSM 2025 · MANIT Bhopal · Dec 5–6, 2025 · Published in IEEE Xplore*
 
-- Conducted a **3-stage controlled cross-platform transfer experiment** using BERT-based classifiers
+- Conducted a 3-stage controlled cross-platform transfer experiment using BERT-based classifiers
 - Achieved **F1 = 0.73** in zero-shot transfer (Twitter → Bluesky)
 - Improved to **F1 = 0.997** after platform-specific fine-tuning
-- Proved foundational misinformation signals are portable; optimal performance requires domain adaptation
+- Showed that foundational misinformation signals are portable, but optimal performance requires domain adaptation
 
 *Supervisor: Dr. Ajay Kumar Phulre · IEEE Conf. No.: 67767*
 
@@ -71,12 +87,20 @@ class Swayam:
 ## 💼 Experience
 
 <details open>
-<summary><b>🏢 Python Development Intern — TechMasterAI Digi Pvt. Ltd. &nbsp;|&nbsp; Jan 2026 – Present</b></summary>
+<summary><b>🏢 Summer Intern — FOSSEE, IIT Bombay &nbsp;|&nbsp; May 2026 – Present</b></summary>
 <br/>
 
-- Built **production-grade FastAPI backend APIs** optimized for low latency and CPU-efficient processing
-- Developed a **real-time speech-to-text microservice** using Vosk with WebSocket streaming pipelines
-- **Containerized** backend services with Docker and authored comprehensive developer documentation
+- Currently working on Osdag - an open source project for the design and detailing of steel structures. Primarily working with Python and Python based FLOSS tools such as PySide, OpenCascade, PythonOCC, and PyLaTeX.
+
+</details>
+
+<details open>
+<summary><b>🏢 Python Development Intern — TechMasterAI Digi Pvt. Ltd. &nbsp;|&nbsp; Jan 2026 – Feb 2026</b></summary>
+<br/>
+
+- Built a text moderation API using **FastAPI** with a dual-layer detection pipeline (dictionary + ML fallback) achieving **sub-1ms latency**
+- Developed a real-time, CPU-native Speech-to-Text microservice using **Vosk** and **WebSockets**, maintaining **<50ms** chunking latency
+- Orchestrated a cloud migration (**AWS**, **Vercel**) and implemented **Docker**-based CI/CD, reducing infrastructure costs by **45%** and deployment time by **70%**
 
 </details>
 
@@ -84,9 +108,9 @@ class Swayam:
 <summary><b>🎓 Winter Intern (NPTEL) — IIT Ropar &nbsp;|&nbsp; Dec 2025 – Jan 2026</b></summary>
 <br/>
 
-- Analyzed **Ajrasakha** (GenAI agri-tech): multi-stage LLM query resolution pipelines and curated dataset integration
-- Studied **ViBe LMS**: AI-proctored video delivery, RBAC design, and scalability strategies
-- Assessed design trade-offs in integrating **LLM components into production-scale educational platforms**
+- Studied **Ajrasakha** (GenAI agri-tech), focusing on multi-stage query resolution pipelines and curated dataset integration
+- Analyzed **ViBe LMS** for AI-proctored video delivery, scalability, and role-based access control design
+- Assessed trade-offs in integrating **LLM-based components** into production-scale educational platforms
 
 </details>
 
@@ -95,9 +119,9 @@ class Swayam:
 <br/>
 
 - Led a **50-member technical core team** to organize campus-scale events
-- Spearheaded **"Borderlands: Survive the Chaos"** at AdVITya 2026 — 200+ participants, multi-stage survival format
-- Built interactive event platforms **Riddle Booth** and **Algo Rush** for Advitya '25 using Node.js, Express, Socket.IO
-- Developed the full event platform and **club website** with React, Node.js, and Socket.IO
+- Spearheaded **"Borderlands: Survive the Chaos"** at AdVITya 2026 with **200+ participants**
+- Built interactive event platforms **Riddle Booth** and **Algo Rush** for AdVITya '25 using **Node.js, Express, Socket.IO**
+- Developed the full event platform and club website with **React, Node.js, and Socket.IO**
 
 </details>
 
@@ -105,7 +129,7 @@ class Swayam:
 <summary><b>🤖 Technical Team Lead — VITB AI Innovators Hub &nbsp;|&nbsp; Sep 2025 – Present</b></summary>
 <br/>
 
-- Coordinated a **cross-functional team of 75+ members** across research and engineering roles
+- Coordinated a cross-functional team of **75+ members** across research and engineering roles
 - Led the **Darzi: AI Resume Suite** initiative — sprint planning, task allocation, and development workflow
 - Structured scalable workflows to support experimentation and parallel feature development
 
@@ -140,18 +164,24 @@ class Swayam:
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![pandas](https://img.shields.io/badge/pandas-302b63?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace%20%2F%20BERT-302b63?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Vosk](https://img.shields.io/badge/Vosk%20STT-0f0c29?style=for-the-badge&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=013243)
+![OpenCV](https://img.shields.io/badge/OpenCV-302b63?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![BERT](https://img.shields.io/badge/BERT-0f0c29?style=for-the-badge&logoColor=a78bfa)
+![Vosk](https://img.shields.io/badge/Vosk%20STT-302b63?style=for-the-badge&logoColor=a78bfa)
+![Plotly](https://img.shields.io/badge/Plotly-0f0c29?style=for-the-badge&logo=plotly&logoColor=white)
+![PySide/Qt](https://img.shields.io/badge/PySide%2FQt-302b63?style=for-the-badge&logo=qt&logoColor=41CD52)
 
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-302b63?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-302b63?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0f0c29?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
-![VSCode](https://img.shields.io/badge/VS%20Code-302b63?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-302b63?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-302b63?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0f0c29?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-302b63?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Nginx](https://img.shields.io/badge/Nginx-0f0c29?style=for-the-badge&logo=nginx&logoColor=009639)
 
 </div>
 
@@ -166,7 +196,7 @@ class Swayam:
 ### 🐠 [Goldfish Password Generator](https://github.com/swayam200/goldfish_password_generator)
 > *Python · OpenCV · SHA-256 · Cryptography*
 
-A **True Random Number Generator** harvesting entropy from real-time fish movement via computer vision. Euclidean motion tracking feeds a SHA-256 hashing pipeline, validated with the Runs Test.
+A **True Random Number Generator** harvesting entropy from real-time fish movement via computer vision. Euclidean motion tracking feeds a SHA-256 hashing pipeline, validated with statistical randomness testing.
 
 </td>
 <td width="50%">
@@ -174,7 +204,7 @@ A **True Random Number Generator** harvesting entropy from real-time fish moveme
 ### 🦠 [Leptospirosis Risk Predictor](https://github.com/swayam200/Leptospirosis-Predictor)
 > *Python · scikit-learn · React · Node.js · PostgreSQL*
 
-ML pipeline predicting **disease outbreak risk** from climate & epidemiological datasets across European regions. Full-stack deployment with geospatial visualization dashboards.
+ML pipeline predicting **disease outbreak risk** from climate and epidemiological datasets across European regions. Full-stack deployment with geospatial visualization dashboards.
 
 </td>
 </tr>
